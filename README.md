@@ -35,7 +35,6 @@ The project is suitable for **machine learning placements and interviews**.
 The following visualization shows the relationship between **Glucose, BMI, Age**
 and how they influence diabetes outcomes.
 
-![Pairplot Visualization]
 <img width="822" height="741" alt="image" src="https://github.com/user-attachments/assets/8a274086-e17a-4392-85b1-3358efbdcd2f" />
 
 
@@ -77,13 +76,3 @@ The model was evaluated using:
 - Jupyter Notebook / Google Colab
 
 ---
-
-## How to Run the Project
-
-1. Clone the repository
-```bash
-git clone https://github.com/Sithik19/Diabetes-Prediction-SVM.git
-
-2.Navigate to the project folder
-```bash
-cd Diabetes-Prediction-SVM
